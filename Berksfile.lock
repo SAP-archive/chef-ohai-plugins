@@ -1,0 +1,9 @@
+DEPENDENCIES
+  sapohai
+    path: .
+    metadata: true
+
+GRAPH
+  ohai (5.2.5)
+  sapohai (0.1.1)
+    ohai (~> 5.2)
