@@ -304,3 +304,4 @@ Ohai.plugin :Sap do
     end
   end
 end
+

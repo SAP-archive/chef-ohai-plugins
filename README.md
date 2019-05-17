@@ -94,8 +94,8 @@ if needed.
 If you require support, please reach out or raise an
 [issue](https://github.com/SAP/chef-ohai-plugins/issues).
 
-- [Dan-Joe Lopez](Dan-Joe.Lopez@sap.com)
-- [Juan Carlos Martinez](Juan.Martinez01@sap.com)
+- [Dan-Joe Lopez](mailto:Dan-Joe.Lopez@sap.com)
+- [Juan Carlos Martinez](mailto:Juan.Martinez01@sap.com)
 
 ## License
 
