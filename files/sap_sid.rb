@@ -69,7 +69,7 @@ Ohai.plugin :Sap do
 
   # return sid on linux hosts
   def sid_linux
-    cmd = "cat /etc/fstab| awk '$2~ \"sapmnt\" {print $2}' " # Search the fstab table for /sapmnt/ABC pattern
+    cmd = "ls -d /sapmnt/*" # do a ls with directories to get /sapmnt/ABC pattern
     cmd += "| awk -F / '{print $3}'" # Print only the possible SID on the system.
     shell_out(cmd).stdout.split("\n")
   end
