@@ -1,5 +1,9 @@
 ![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
-
+################################################################################
+# SPDX-FileCopyrightText: 2019 SAP
+#                                                                              #
+# SPDX-License-Identifier: Apache-2.0
+################################################################################
 # Important Notice
 This public repository is read-only and no longer maintained.
 
@@ -119,4 +123,4 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/SAP/hana-client-chef-cookbook).
+Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/SAP/chef-ohai-plugins-chef-cookbook).
