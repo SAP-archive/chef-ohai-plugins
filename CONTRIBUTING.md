@@ -1,8 +1,3 @@
-################################################################################
-# SPDX-FileCopyrightText: 2019 SAP
-#                                                                              #
-# SPDX-License-Identifier: Apache-2.0
-################################################################################
 # Contributing to SAP Community chef code
 
 Contributions are welcomed!
