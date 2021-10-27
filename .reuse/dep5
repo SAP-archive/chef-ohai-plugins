@@ -1,5 +1,5 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: sapohai
+Upstream-Name: chef-ohai-plugins
 Upstream-Contact: Dan-Joe Lopez <Dan-Joe.Lopez@sap.com>
 Source: https://github.com/SAP/chef-ohai-plugins/
 
