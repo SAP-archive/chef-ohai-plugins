@@ -4,5 +4,5 @@ Upstream-Contact: Dan-Joe Lopez <Dan-Joe.Lopez@sap.com>
 Source: https://github.com/SAP/chef-ohai-plugins/
 
 Files: README.md CONTRIBUTING.md
-Copyright: 2019 SAP <https://www.sap.com>
+Copyright: 2019-2021 SAP SE or an SAP affiliate company and chef-ohai-plugins contributors
 License: Apache-2.0
