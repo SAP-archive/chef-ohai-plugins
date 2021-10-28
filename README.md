@@ -1,5 +1,7 @@
 # chef-ohai-plugins
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP/chef-ohai-plugins)](https://api.reuse.software/info/github.com/SAP/chef-ohai-plugins)
+
 When using Chef to manage your infrastructure, you may find that you need some
 detailed information about the current state of machine's applications.  You
 might also find that you'd like to be able to collect and analyse such data; for
@@ -93,9 +95,6 @@ if needed.
 
 If you require support, please reach out or raise an
 [issue](https://github.com/SAP/chef-ohai-plugins/issues).
-
-- [Dan-Joe Lopez](mailto:Dan-Joe.Lopez@sap.com)
-- [Juan Carlos Martinez](mailto:Juan.Martinez01@sap.com)
 
 ## License
 
