@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: chef-ohai-plugins
+Upstream-Contact: Dan-Joe Lopez <Dan-Joe.Lopez@sap.com>
+Source: https://github.com/SAP/chef-ohai-plugins/
+
+Files: README.md CONTRIBUTING.md
+Copyright: 2019-2021 SAP SE or an SAP affiliate company and chef-ohai-plugins contributors
+License: Apache-2.0

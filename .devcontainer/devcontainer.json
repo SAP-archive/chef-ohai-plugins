@@ -1,0 +1,14 @@
+////////////////////////////////////////////////////////////////////////////////
+// SPDX-FileCopyrightText: 2019 SAP   
+//                                                                            //
+// SPDX-License-Identifier: Apache-2.0
+////////////////////////////////////////////////////////////////////////////////
+
+{
+	"name": "Chef Workstation (Community)",
+	"image": "chef/chefworkstation:stable",
+	"settings": {},
+	"extensions": [
+		"chef-software.chef"
+	]
+}
